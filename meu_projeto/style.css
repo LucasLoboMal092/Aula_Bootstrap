@@ -1,0 +1,75 @@
+body{
+
+font: 20px Arial, Helvetica, sans-serif;
+
+}
+
+#bod{
+
+    border: 2px solid rgb(29, 61, 110);
+    border-radius: 20px;
+}
+
+.navbar{
+
+    background-color: #138E67;
+}
+.nav-item{
+    background-color: #0DC9A1;
+    border: 2px solid #06d5e4e5;
+    border-radius: 25px;
+    margin-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.quem-somos{
+    background-color: #0066F9;
+    color: azure;
+    font-style: italic;
+ 
+
+}
+.margin{
+
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+.parceiros{
+background-color: #464646;
+
+
+}
+#servicos{
+
+    background-color:#b2b4b8;
+}
+#parceiros{
+   
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+.red{
+    border: 2px solid rgb(47, 240, 176);
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 0px 0px 0px 10px #0066F9;
+}
+
+.blue{
+
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 100%;
+    text-align: center;
+    box-shadow: 0px 0px 0px 10px #c8cace;
+    margin-top: 2%;
+}
+.Servic{
+    border: 2px groove rgb(55, 112, 98);
+    border-radius: 35% ;
+    box-shadow: 30px;
+}
+.bg-footer{
+    background-color: #101011;
+    color: rgb(9, 241, 210);
+}
